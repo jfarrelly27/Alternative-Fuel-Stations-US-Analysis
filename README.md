@@ -6,4 +6,6 @@ The project comprises two main Python scripts:
 
 **main.py** leverages the functions defined in utilities.py to execute the analysis and generate the visualizations, presenting the results in the console and as plots.
 
+**Note: Run utilities.py first, and main.py second**
+
 By offering valuable insights into the current state and trends of alternative fuel infrastructure in the United States, this project serves as a useful resource for stakeholders interested in the development of alternative fuels, including policy makers, researchers, and businesses in the energy sector.
